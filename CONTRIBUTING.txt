@@ -9,7 +9,7 @@ If you want to join the project please follow the  directions.
 5.    Run the command, 'python setup.py build' first
 6.    Upon success run the command, 'python setup.py install'
 7.    You may have to use sudo permissions in Linux if you are not using virtualenv
-8.    Ezhil-Lang code is GPL licensed; this means all contributions either have to be pure GPL or dual licensed with MIT or Apache Open license.
+
 
 ==Contact==
-Hopefully you can get started on ezhil-lang with these resources. If not always leave a comment, drop an email @gmail.com for ezhillang, or tweet to me @ezhillang.
+leave a comment, drop an email @gmail.com for ezhillang, or tweet to me @ezhillang.
